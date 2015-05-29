@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "facab960_a11a3c6c",
+        "filename": "px.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-05-29T14:22:11Z",
+      "side": 1,
+      "message": "i´d rather put that to common repos",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 16,
+        "endChar": 8
+      },
+      "revId": "a5ced25885f1a202b8981435be7a9ee1cb3a0c1c",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "facab960_4113305c",
         "filename": "px.dependencies",
         "patchSetId": 1
