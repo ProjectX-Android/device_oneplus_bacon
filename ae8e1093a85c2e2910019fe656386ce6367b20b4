@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_ebc4dd60",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-06-09T21:05:42Z",
+      "side": 1,
+      "message": "if it´s not there by by default you dont need to add it here, but I think you should look at BoradConfigCommon",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 47
+      },
+      "revId": "ae8e1093a85c2e2910019fe656386ce6367b20b4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
