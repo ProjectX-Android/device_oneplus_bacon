@@ -8,5 +8,10 @@
     "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "revision": "cm-12.1"
+  },
+  {
+   "repository": "packages_apps_PXUpdater",
+   "target_path": "packages/apps/PXUpdater",
+   "revision": "cm-12.1-bacon"
   }
 ]
