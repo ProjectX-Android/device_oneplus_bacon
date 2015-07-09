@@ -12,6 +12,6 @@
   {
    "repository": "packages_apps_PXUpdater",
    "target_path": "packages/apps/PXUpdater",
-   "revision": "cm-12.1-bacon"
+   "revision": "lollipop-5.1_bacon"
   }
 ]
